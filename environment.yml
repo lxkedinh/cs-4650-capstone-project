@@ -1,0 +1,7 @@
+name: capstone_project
+dependencies:
+  - numpy
+  - pandas
+  - conda-forge::mrjob
+  - matplotlib
+  - jupyter
